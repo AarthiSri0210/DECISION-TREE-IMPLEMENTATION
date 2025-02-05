@@ -1,10 +1,15 @@
 # DECISION-TREE-IMPLEMENTATION
 
 **COMPANY**: CODETECH IT SOLUTIONS
+
 **NAME**: PATHI AARTHI SRI
+
 **INTERN ID**: CT4MJWB
+
 **DOMAIN**: MACHINE LEARNING
+
 **DURATION**: 16 WEEKS
+
 **MENTOR**: NEELA SANTOSH
 
 # DESCRIPTION 
@@ -59,3 +64,7 @@ The goal of this project is to classify Iris flowers using a **Decision Tree Mod
 ## 🔗 Resources
 - [Iris Dataset](https://archive.ics.uci.edu/ml/datasets/Iris)
 - [Scikit-Learn Documentation](https://scikit-learn.org/)
+
+# OUTPUT
+
+![Image](https://github.com/user-attachments/assets/7056d02d-a951-4670-ad7a-55a6f8a3e8a8)
